@@ -1,0 +1,31 @@
+﻿clauses
+    team(1, "Predadors", usa,"Chicago" ,45000).
+    team(2, "Orły", poland,"Katowice" ,34000).
+    team(3, "Амурский тигр", russia,"Хабаровск", 24000).
+    team(4, "Locomotora", venezuella,"Karakas", 46400).
+    place("Berlin").
+    place("Kraków").
+    place("Rio de janeiro").
+    place("Karakas").
+    place("Москва").
+    result(5, 0).
+    result(3, 2).
+    result(1, 4).
+    result(2, 3).
+    player(24, "Brandon", 1).
+    player(27, "Justin", 1).
+    player(28, "Wayne", 1).
+    player(21, "John", 1).
+    player(12, "Michael", 2).
+    player(16, "Radoslav", 2).
+    player(17, "Szymon", 2).
+    player(19, "Adam", 2).
+    player(5, "Александр", 3).
+    player(6, "Владимир", 3).
+    player(7, "Владислав", 3).
+    player(8, "Николай", 3).
+    player(33, "Alejandro",4).
+    player(35, "Diego",4).
+    player(36, "Migel",4).
+    player(37, "Fidel",4).
+
